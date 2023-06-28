@@ -28,7 +28,7 @@ A few issues have come up from feedback of the original survey. We try to addres
    2. **Would moving the common deadline later lead to logistical challenges?**
       The astronomy community provides proof that a later postdoc deadline can work.  In this community, most postdoc offers are made in January and the response deadline is not earlier than Feb 15.  The American Astronomical Society’s (AAS) policy, adopted in 1988 and later reaffirmed in 2003 and 2006, can be found [here](https://aas.org/about/governance/society-resolutions#postdoc).
       Similarly, the mathematics community reached a similar agreemend with. adeadline of Feb 6, which can be found [here](https://www.ams.org/profession/employment-services/deadline-coordination/deadline-coordination).
-      It is important to be cognizant of how a later response deadline can affect applicants who need to apply for visas, prepare for a long-distance move, arrange child-care, and/or coordinate dual careers.  As the Feb 15 deadline has been adhered to by the astronomy community for several decades, presumably visa/moving issues have not posed a significant impediment to newly-appointed postdocs in that field (barring extenuating circumstances).  This survey does not consider any deadlines that extend past Feb 15.
+      It is important to be cognizant of how a later response deadline can affect applicants who need to apply for visas, prepare for a long-distance move, arrange child-care, and/or coordinate dual careers.  This survey does not consider any deadlines that extend past Feb 15 (which has been adopted by the astronomy community). Were the dates change, we will encourage institutitons to be mindful of these challenges and consider adapting starting dates. 
 
   3. **How can we avoid having a deadline that falls on a weekend, which encounters similar administrative challenges as one that falls during the holiday period?**
 One option is to frame the deadline as the “the Xth Wednesday in January/February.”  Wednesday is a convenient choice as it maximizes the number of weekdays before/after the deadline for coordinating new offers.
@@ -62,7 +62,7 @@ One option is to frame the deadline as the “the Xth Wednesday in January/Febru
 
 <a name="signatories"></a> 
 # Community Members Agreeing to a change in the Deadline: 
-The survey asked the question: “If you are in support of reconsidering the Jan 7 date for the common deadline (assuming broad community consensus), would you be willing to have your name and affiliation listed publicly?  All other provided information would remain anonymous.”  The following individuals responded “yes” to this question, or communicated a similar sentiment via email.
+### The survey asked the question: “If you are in support of reconsidering the Jan 7 date for the common deadline (assuming broad community consensus), would you be willing to have your name and affiliation listed publicly?  All other provided information would remain anonymous.”  The following individuals responded “yes” to this question, or communicated a similar sentiment via email.
 
 Abigail Vieregg (University of Chicago)
 
