@@ -8,7 +8,7 @@ The High Energy community has adopted an accord, which can be found [here](http:
 
 Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon Knapen (LBNL), Mariangela Lisanti (Princeton/Flatiron), Lina Necib (MIT), Tien-Tien Yu (U. Oregon)
 
-To see other names in support click [here](#signatories).
+*To see other names in support click [here](#signatories).*
 # Finalized Accord:
 
 The finalized accord will be linked here when ready. **Institutions** will sign on the accord by adding a name of a representative. 
@@ -60,13 +60,13 @@ One option is to frame the deadline as the “the Xth Wednesday in January/Febru
 **UC Presidential and Chancellor Fellowships**: Offers made at the end of February
 
 
-<a name="signatories"></a> # Community Members Agreeing to a change in the Deadline: 
-<details>
-  
+<a name="signatories"></a> 
+# Community Members Agreeing to a change in the Deadline: 
+The survey asked the question: “If you are in support of reconsidering the Jan 7 date for the common deadline (assuming broad community consensus), would you be willing to have your name and affiliation listed publicly?  All other provided information would remain anonymous.”  The following individuals responded “yes” to this question, or communicated a similar sentiment via email.
+
+ <details> 
   <summary>
-    
-    The survey asked the question: “If you are in support of reconsidering the Jan 7 date for the common deadline (assuming broad community consensus), would you be willing to have your name and affiliation listed publicly?  All other provided information would remain anonymous.”  The following individuals responded “yes” to this question, or communicated a similar sentiment via email.
-    
+    Signatories:     
   </summary>
 
 Abigail Vieregg (University of Chicago)
