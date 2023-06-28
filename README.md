@@ -64,11 +64,6 @@ One option is to frame the deadline as the “the Xth Wednesday in January/Febru
 # Community Members Agreeing to a change in the Deadline: 
 The survey asked the question: “If you are in support of reconsidering the Jan 7 date for the common deadline (assuming broad community consensus), would you be willing to have your name and affiliation listed publicly?  All other provided information would remain anonymous.”  The following individuals responded “yes” to this question, or communicated a similar sentiment via email.
 
- <details> 
-  <summary>
-    Signatories:     
-  </summary>
-
 Abigail Vieregg (University of Chicago)
 
 Aditya Parikh (Stony Brook University)
@@ -513,6 +508,8 @@ Ken Intriligator (UC San Diego)
 
 Ken Mimasu (King's College London)
 
+Ken Van Tilburg (NYU)
+
 Kevin Ingles (Ohio State University)
 
 Kevin Kelly (Texas A&M University)
@@ -656,6 +653,8 @@ Myriam Mondragon (Instituto de Física, National Autonomous University of Mexico
 Natalie Paquette (University of Washington)
 
 Nathaniel Craig (UC Santa Barbara)
+
+Neal Weiner (NYU)
 
 Neil Christensen (Illinois State University)
 
@@ -968,5 +967,3 @@ Zhong Zhang (UCL)
 Zohar Komargodski (Simons Center for Geometry and Physics)
 
 Zvi Bern (UCLA)
-
-</details>
