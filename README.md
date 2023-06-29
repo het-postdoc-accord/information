@@ -534,8 +534,6 @@ Laura Engelbrecht (ETH Zurich)
 
 Laurence Yaffe (University of Washington)
 
-Laurence Yaffe (University of Washington)
-
 Leonardo Giusti (University of Milano - Bicocca & INFN)
 
 Leonardo Rastelli (YITP, Stony Brook)
