@@ -1,21 +1,21 @@
 # Introduction: 
 
-The High Energy community has adopted an accord, which can be found [here](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html), that states that the earliest deadline for postdoc acceptance is January 7. This accord has dramatically changed the field giving applicants a chance to see all their options and make the best decisions for themselves and their families deciding their next position. However, we found that the date itself might be a little less ideal, due to conflicts with the holiday season in quite a few countries, as well as the Astronomy deadline on February 15 and the growing number of people appling to jobs in HEP and Astro. From there, we wanted to check with the community and see whether they thought another date would be ideal. The results of the survey are published on arXiv here. 
+The High Energy community has adopted an accord, which can be found [here](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html), that states that the earliest deadline for postdoc acceptance is January 7. This accord has changed our field for the better, giving applicants a chance to see all their options and make the best decisions for themselves and their families deciding their next position. However, we found that the date itself might be a little less ideal, due to conflicts with the holiday season in quite a few countries, as well as the Astronomy deadline on February 15 and the growing number of people appling to jobs in HEP and Astro. From there, we wanted to check with the community and see whether they thought another date would be ideal. The results of the survey are published on arXiv [here].  
 
 **If you did not get to respond to the initial community survey, have changed your mind, or would like to have your voice heard in any way, you can either:
 1. Vote on the survey still up [here](https://forms.gle/1oASBrocy7Ayu7u38)
-2. Email us at het.postdoc.deadline@gmail.com
+2. Email us at [het.postdoc.deadline@gmail.com](mailto:het.postdoc.deadline@gmail.com)
 
 Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon Knapen (LBNL), Mariangela Lisanti (Princeton/Flatiron), Lina Necib (MIT), Tien-Tien Yu (U. Oregon)
 
 *To see other names in support click [here](#signatories).*
-# Finalized Accord:
+# New Accord:
 
-The finalized accord will be linked here when ready. **Institutions** will sign on the accord by adding a name of a representative. 
+The new accord will be linked here when ready. **Institutions** will sign on the accord by adding a name of a representative. 
 
 # Results:
 
-The detailed results can be found in the arXiv here. However, we summarize the results as of June 2023 (which we will update if results change dramatically). 
+The detailed results can be found in the arXiv [here]. However, we summarize the results as of June 2023 (which we will update if results change qualitatively). 
 
 # Frequently Asked Questions:
 
@@ -27,7 +27,7 @@ A few issues have come up from feedback of the original survey. We try to addres
 
    2. **Would moving the common deadline later lead to logistical challenges?**
       The astronomy community provides proof that a later postdoc deadline can work.  In this community, most postdoc offers are made in January and the response deadline is not earlier than Feb 15.  The American Astronomical Society’s (AAS) policy, adopted in 1988 and later reaffirmed in 2003 and 2006, can be found [here](https://aas.org/about/governance/society-resolutions#postdoc).
-      Similarly, the mathematics community reached a similar agreemend with. adeadline of Feb 6, which can be found [here](https://www.ams.org/profession/employment-services/deadline-coordination/deadline-coordination).
+      Similarly, the mathematics community reached a similar agreemend with a deadline of Feb 6, which can be found [here](https://www.ams.org/profession/employment-services/deadline-coordination/deadline-coordination).
       It is important to be cognizant of how a later response deadline can affect applicants who need to apply for visas, prepare for a long-distance move, arrange child-care, and/or coordinate dual careers.  This survey does not consider any deadlines that extend past Feb 15 (which has been adopted by the astronomy community). Were the acceptance deadline to change, we will encourage institutitons to be mindful of these challenges and consider flexibility in starting dates. 
 
   3. **How can we avoid having a deadline that falls on a weekend, which encounters similar administrative challenges as one that falls during the holiday period?**
