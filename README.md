@@ -15,7 +15,12 @@ The new accord will be linked here when ready. **Institutions** will sign on the
 
 # Results:
 
-The detailed results can be found in the arXiv [here]. However, we summarize the results as of June 2023 (which we will update if results change qualitatively). 
+The detailed results can be found in the arXiv [here]. However, we summarize the results as of June 2023 (which we will update if results change qualitatively). Anonimized survey data can be found [here].
+
+[bar_datepref.pdf](https://github.com/het-postdoc-accord/information/files/11958289/bar_datepref.pdf)
+[pie_first_all.pdf](https://github.com/het-postdoc-accord/information/files/11958291/pie_first_all.pdf)
+[pie_clause.pdf](https://github.com/het-postdoc-accord/information/files/11958290/pie_clause.pdf)
+
 
 # Frequently Asked Questions:
 
