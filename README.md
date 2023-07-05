@@ -9,13 +9,14 @@ The High Energy community has adopted an accord, which can be found [here](http:
 Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon Knapen (LBNL), Mariangela Lisanti (Princeton/Flatiron), Lina Necib (MIT), Tien-Tien Yu (U. Oregon)
 
 *To see other names in support click [here](#signatories).*
+
 # New Accord:
 
 The new accord will be linked here when ready. **Institutions** will sign on the accord by adding a name of a representative. 
 
 # Results:
 
-The detailed results can be found in the arXiv [here]. However, we summarize the results as of June 2023 (which we will update if results change qualitatively). Anonimized survey data can be found [here].
+The detailed results can be found in the arXiv [here]. However, we summarize the results as of June 2023 (which we will update if results change qualitatively). Anonimized survey data can be found [here](https://docs.google.com/spreadsheets/d/1BlUAsULEQWOekQODV3Dkqy1NypIaF5_n/edit?usp=sharing&ouid=108606220697186094732&rtpof=true&sd=true).
 
 ![bar_datepref](https://github.com/het-postdoc-accord/information/assets/13158219/69e3922b-5471-4cea-9df7-d20cbfe27b24)
 ![pie_first_all](https://github.com/het-postdoc-accord/information/assets/13158219/858c8651-b567-4433-9519-ae35ff01fbd4)
