@@ -6,7 +6,7 @@ The theoretical High Energy Physics (HEP) community has adopted an accord, which
 
 Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon Knapen (LBNL), Mariangela Lisanti (Princeton/Flatiron), Lina Necib (MIT), Tien-Tien Yu (U. Oregon)
 
-*To see other names in support click [here](#signatories).*
+[comment]: <>  (*To see other names in support click [here](#signatories).*)
 
 # New Accord:
 
@@ -27,20 +27,20 @@ A few issues have come up from feedback of the original survey. We try to addres
 
   1. **What is the history behind the January 7 response deadline in HET?**
    The agreement on a common acceptance deadline for postdoc offers in theoretical high energy physics was reached in 2007.  The open letter to the community, original signatories, and FAQs (including the rationale for selecting January 7) are provided [here](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html).
-   The original motivation for the deadline continues to remain valid today: it is imperative that junior researchers are offered enough time in which to make important job decisions. It also ensures that candidates have a full set of options to choose from (not being limited to an early offer with a short deadline). The purpose of this survey is to gauge the community interest in extending this deadline to later in January or early February, not to abolish it.
+   The original motivation for the deadline continues to remain valid today: it is imperative that junior researchers are offered enough time in which to make important job decisions. It also ensures that candidates have a full set of options to choose from (not being limited to an early offer with a short deadline). The purpose of this survey was to gauge the community interest in extending this deadline to later in January or early February, not to abolish it.
 
    2. **Would moving the common deadline later lead to logistical challenges?**
-      The astronomy community provides proof that a later postdoc deadline can work.  In this community, most postdoc offers are made in January and the response deadline is not earlier than Feb 15.  The American Astronomical Society’s (AAS) policy, adopted in 1988 and later reaffirmed in 2003 and 2006, can be found [here](https://aas.org/about/governance/society-resolutions#postdoc).
+      In the astronomy community, most postdoc offers are made in January and the response deadline is not earlier than Feb 15.  The American Astronomical Society’s (AAS) policy, adopted in 1988 and later reaffirmed in 2003 and 2006, can be found [here](https://aas.org/about/governance/society-resolutions#postdoc).
       Similarly, the mathematics community reached a similar agreemend with a deadline of Feb 6, which can be found [here](https://www.ams.org/profession/employment-services/deadline-coordination/deadline-coordination).
-      It is important to be cognizant of how a later response deadline can affect applicants who need to apply for visas, prepare for a long-distance move, arrange child-care, and/or coordinate dual careers.  This survey does not consider any deadlines that extend past Feb 15 (which has been adopted by the astronomy community). Were the acceptance deadline to change, we will encourage institutitons to be mindful of these challenges and consider flexibility in starting dates. 
+      It is important to be cognizant of how a later response deadline can affect applicants who need to navigate extra-ordinary visa complications, prepare for a long-distance move, arrange child-care, and/or coordinate dual careers. These very real concerns are to be weighted together with the very broad preference in the community for a later deadline. The write-in comments in the survey indicated that this preference is at least in part driven by family-related considerations, such work-life balance issues and elevated stress-levels during the winter holidays. Any concrete date will always be a compromise, as a 100% satisfactory solution to this problem does not exist. Were the acceptance deadline to change, institutions can help offset these challenges by being as flexible as with contract starting and ending dates. 
 
-  3. **Would a later deadline mean that applicants hold onto offers for longer?**
+  4. **Would a later deadline mean that applicants hold onto offers for longer?**
       It is not clear that this will necessarily be the case, as a later response deadline may mean that individual institutions decide to make their offers later as well. The data from the rumor mill (kindly provided by Felix Yu, and shown below as Figure 2 of [this arXiv submission](https://arxiv.org/abs/2307.02683) that we produced), averaged over the last 6 years, indicates that candidates who currently receive an offer before Jan 7 on average accept within 12 days of receiving their preferred offer. In general, applicants should be aware that the “best practice” is to not hold onto multiple offers longer than is needed to make their decision.
 ![Screen Shot 2023-08-07 at 2 14 28 PM](https://github.com/het-postdoc-accord/information/assets/13158219/d15b348b-f5d4-4c6a-9a84-c1f003d8db84)
-  4. **Would extending the response deadline unreasonably extend second and third-round offers for many weeks/months?**
+  5. **Would extending the response deadline unreasonably extend second and third-round offers for many weeks/months?**
      Data from the postdoc rumor mill sheds some light on this question.  Over the last six hiring seasons, 90% of all offers in a given year were accepted within two weeks of the Jan 7 deadline, and 95% within three weeks.  There are two important caveats to keep in mind when interpreting this data.  First, there may be a delay between when an applicant accepts an offer and when they post it to the rumor mill (although this just makes the conclusions conservative).  Second, applicants who receive offers more than one week beyond the Jan 7 deadline may be less likely to report it to the rumor mill. This was addressed as Figure 1 of [the arXiv submission](https://arxiv.org/abs/2307.02683). 
 ![Screen Shot 2023-08-07 at 2 19 27 PM](https://github.com/het-postdoc-accord/information/assets/13158219/958e882f-4e61-4fc5-b758-dab0a6c5f93f)
-  5. **What about CERN which generally has its offers quite early?**
+  6. **What about CERN which generally has its offers quite early?**
       The following statement was offered by Gian Giudice on behalf of CERN.
 > CERN has an early application deadline for theory postdocs because the selection process requires a first stage done at the individual national level. For this reason, CERN has been making postdoc offers as early as November. However, CERN has always respected the January 7th response deadline, and intends to respect any new deadline that will be agreed upon by the physics community. CERN welcomes the proposal to shift the January 7th deadline to a later date. In order to adapt better to such changes, CERN is considering to move its current application deadline to a later date, closer to those of other institutions.
 
@@ -60,7 +60,7 @@ A few issues have come up from feedback of the original survey. We try to addres
 
 **UC Presidential and Chancellor Fellowships**: Offers made at the end of February
 
-
+<!---
 <a name="signatories"></a> 
 # Community Members Agreeing to a change in the Deadline: 
 ### The survey asked the question: “If you are in support of reconsidering the Jan 7 date for the common deadline (assuming broad community consensus), would you be willing to have your name and affiliation listed publicly?  All other provided information would remain anonymous.”  The following individuals responded “yes” to this question, or communicated a similar sentiment via email.
@@ -966,3 +966,4 @@ Zhong Zhang (UCL)
 Zohar Komargodski (Simons Center for Geometry and Physics)
 
 Zvi Bern (UCLA)
+-->
