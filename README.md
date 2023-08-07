@@ -6,7 +6,7 @@ The theoretical High Energy Physics (HEP) community has adopted an accord, which
 
 Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon Knapen (LBNL), Mariangela Lisanti (Princeton/Flatiron), Lina Necib (MIT), Tien-Tien Yu (U. Oregon)
 
-[comment]: <>  (*To see other names in support click [here](#signatories).*)
+<!--- (*To see other names in support click [here](#signatories).*) --->
 
 # New Accord:
 
