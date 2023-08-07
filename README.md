@@ -2,9 +2,7 @@
 
 The theoretical High Energy Physics (HEP) community has adopted an accord, which can be found [here](http://insti.physics.sunysb.edu/itp/postdoc-agreement.html), that states that the earliest deadline for postdoc acceptance is January 7. This accord has changed our field for the better, giving applicants a chance to see all their options and make the best decisions for themselves and their families deciding their next position. However, we found that the date itself might be a little less ideal, due to conflicts with the holiday season in quite a few countries, as well as the Astronomy deadline on February 15 and the growing number of people appling to jobs in HEP and Astro. From there, we wanted to check with the community and see whether they thought another date would be ideal. The results of the survey are published on arXiv [here](https://arxiv.org/abs/2307.02683). The results from this survey indicates broad support within the community for reconsidering the Jan 7th deadline in favor of a later date. The remainder of this webpage is meant to coordinate the effort to reach a new, community-wide consensus.  
 
-**If you did not get to respond to the initial community survey, have changed your mind, or would like to have your voice heard in any way, you can either:
-1. Vote on the survey still up [here](https://forms.gle/BF8oNQcrZ11hRXJU9) (before July 21st, 2023)
-2. Email us at [het.postdoc.deadline@gmail.com](mailto:het.postdoc.deadline@gmail.com)
+**If you did not get to respond to the initial community survey, have changed your mind, or would like to have your voice heard in any way, you can always email us at [het.postdoc.deadline@gmail.com](mailto:het.postdoc.deadline@gmail.com).
 
 Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon Knapen (LBNL), Mariangela Lisanti (Princeton/Flatiron), Lina Necib (MIT), Tien-Tien Yu (U. Oregon)
 
