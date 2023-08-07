@@ -48,8 +48,7 @@ One option is to frame the deadline as the “the Xth Wednesday in January/Febru
    5. **Would extending the response deadline unreasonably extend second and third-round offers for many weeks/months?**
      Data from the postdoc rumor mill sheds some light on this question.  Over the last six hiring seasons, 90% of all offers in a given year were accepted within two weeks of the Jan 7 deadline, and 95% within three weeks.  There are two important caveats to keep in mind when interpreting this data.  First, there may be a delay between when an applicant accepts an offer and when they post it to the rumor mill (although this just makes the conclusions conservative).  Second, applicants who receive offers more than one week beyond the Jan 7 deadline may be less likely to report it to the rumor mill. This was addressed as Figure 1 of [the arXiv submission](https://arxiv.org/abs/2307.02683). 
 
-![Screen Shot 2023-08-07 at 2 17 05 PM](https://github.com/het-postdoc-accord/information/assets/13158219/be0d60d8-086a-4cc4-8263-bdf4a9893f2c)
-
+![Screen Shot 2023-08-07 at 2 19 27 PM](https://github.com/het-postdoc-accord/information/assets/13158219/958e882f-4e61-4fc5-b758-dab0a6c5f93f)
 
   6. **What about CERN which generally has its offers quite early?**
       The following statement was offered by Gian Giudice on behalf of CERN.
