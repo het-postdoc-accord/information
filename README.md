@@ -10,7 +10,7 @@ Djuna Croon (Durham U.), Patrick Fox (Fermilab), Roni Harnik (Fermilab), Simon K
 
 # New Accord:
 
-The new accord can be found here. **Institutions**/**Research groups** will sign on the accord by emailing [het.postdoc.deadline@gmail.com](mailto:het.postdoc.deadline@gmail.com) and adding the name of a representative of the research group.
+The new accord can be found [here](https://het-postdoc-accord.github.io/accord/). **Institutions**/**Research groups** will sign on the accord by emailing [het.postdoc.deadline@gmail.com](mailto:het.postdoc.deadline@gmail.com) and adding the name of a representative of the research group.
 
 # Results:
 
